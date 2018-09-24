@@ -1,5 +1,5 @@
 import React from 'react';
-import { DropTarget, hover } from 'react-dnd';
+import { DropTarget } from 'react-dnd';
 
 const DeleteTarget = (props) => (
 // const Target = ({ connectDropTarget, highlighted, shape }) => (
